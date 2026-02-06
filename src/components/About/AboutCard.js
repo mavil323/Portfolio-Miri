@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hiiii, I am <span className="purple">Miriam Avila </span>
+            Hi, I am <span className="purple">Miriam Avila </span>
             from <span className="purple"> Beaumont,TX </span>
             <br />
             I am currently looking for work!
             <br />
-            Detail-oriented developer with a Bachelor’s degree in Computer Science, which I earned in May 2024. Since graduating, I’ve continued to expand my skills in front-end and full-stack development, building responsive web apps and intuitive user experiences.
+            Detail-oriented developer with a Bachelor’s degree in Computer Science, which I earned in May 2024. Since graduating, I have continued to expand my skills in front-end and full-stack development, building responsive web apps and intuitive user experiences.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
