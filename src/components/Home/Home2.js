@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and when I took my first web design class. 
+              I discovered my passion for programming while enrolled in my first web design course, which sparked my interest in pursuing the field further. 
               <br />
               <br /> I like to program in:
 
