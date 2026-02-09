@@ -31,7 +31,7 @@ It serves as a central hub linking to my GitHub work while demonstrating modern 
 
 ## Live Demo
 
-[Insert deployed website link]
+[[Insert deployed website link]](https://hi-miriam-portfolio.netlify.app/)
 
 ---
 
