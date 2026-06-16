@@ -13,10 +13,9 @@ function AboutCard() {
             <br />
             I am currently looking for work!
             <br />
-            Detail-oriented developer with a Bachelor’s degree in Computer Science, which I earned in May 2024. Since graduating, I have continued to expand my skills in front-end and full-stack development, building responsive web apps and intuitive user experiences.
+Detail-oriented developer with a Bachelor's degree in Computer Science, earned in May 2024. Since graduating, I have continued expanding my skills in front-end and full-stack development by building responsive web applications and intuitive user experiences. In addition, I am currently pursuing accounting studies at Houston Community College, developing knowledge in financial accounting, auditing, taxation, data analytics, and business processes. This combination of technical and financial expertise allows me to approach problems with both analytical and business-focused perspectives.            <br />
             <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, I enjoy expanding my knowledge in accounting, auditing, and data analytics. I am passionate about continuous learning and enjoy exploring how technology and business can work together to solve real-world problems. Outside of academics and technology, I enjoy art, music, and creative projects.g, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
