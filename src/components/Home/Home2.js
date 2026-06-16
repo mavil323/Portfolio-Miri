@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, I'm Maria! I graduated with a Bachelor's degree in Computer Science in May 2024, but my learning didn't stop there. Since graduating, I've been expanding my skills in both technology and accounting because I enjoy understanding how businesses operate and how data can be used to make better decisions.
+              Hi, I'm Miriam! I graduated with a Bachelor's degree in Computer Science in May 2024, but my learning didn't stop there. Since graduating, I've been expanding my skills in both technology and accounting because I enjoy understanding how businesses operate and how data can be used to make better decisions.
 
 During my internship at Nagarro, I worked on web development projects, helped build an AI-powered chatbot, collaborated with team members on website improvements, and had the opportunity to present my work to leadership. That experience strengthened my technical skills while teaching me the value of teamwork, communication, and problem-solving.
 
@@ -37,10 +37,8 @@ Outside of work and school, I enjoy creative hobbies, learning new skills, and t
               My field of Interest's are:  &nbsp;
               <i>
                 <b className="purple"> data analytics, accounting, finance, and technology-driven business solutions </b> and
-                in areas related to{" "}
-                <b className="purple">
-                  Designing
-                </b>
+                
+                
               </i>
               <br />
               <br />
