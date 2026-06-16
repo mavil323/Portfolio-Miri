@@ -36,7 +36,7 @@ Outside of work and school, I enjoy creative hobbies, learning new skills, and t
               <br />
               My field of Interest's are:  &nbsp;
               <i>
-                <b className="purple"> data analytics, accounting, finance, and technology-driven business solutions </b> and
+                <b className="purple"> data analytics, accounting, finance, and technology-driven business solutions </b> 
                 
                 
               </i>
